@@ -1,0 +1,12 @@
+{
+  "name": "genpark-autonomous-graphql-query-complexity-calculator-skill",
+  "version": "1.0.0",
+  "description": "GraphQL AST query complexity calculator enforcing recursion depth limits and pagination cost budgets",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["graphql-complexity", "ast-security", "query-cost", "dos-prevention", "api-gateway", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
